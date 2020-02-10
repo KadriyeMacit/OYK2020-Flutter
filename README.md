@@ -3,6 +3,7 @@
 Özgür Yazılım Kış Kampı 2020 - Flutter ile Mobil Uygulama Geliştirme kursunda, anlattığım konuların/derslerin kaynak kodları bulunmaktadır.
 
 - Stateless ve Stateful ile tanımlanmış sayfa yapıları
+- Center, Row, Column ve Container gibi sayfa yapıları
 - Buton türleri
 - Resim türleri
 - ListView yapısı ve özellikleri
